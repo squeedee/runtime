@@ -16,7 +16,7 @@ If you're already accustomed to using `kubebuilder`, jump to [chapt... ]()
 ## Table of Contents
 
 * [Chapter 1 - Preparation](ch-01-preparation.md)
-* [Chapter 2 - Creating a controller with kubebuilder](ch-02-create-controller)
+* [Chapter 2 - Creating a controller with kubebuilder](ch-02-create-controller.md)
 
 [Reconciler.io Runtime]: https://github.com/reconcilerio/runtime
 [Controller Runtime]: https://github.com/kubernetes-sigs/controller-runtime

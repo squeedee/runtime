@@ -11,4 +11,4 @@
 * We also recommend [installing GIT](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) as an easy way to
   track progress and revert mistakes.
 
-# Next: [Chapter 2 - Creating a controller with kubebuilder](ch-02-create-controller)
+# Next: [Chapter 2 - Creating a controller with kubebuilder](ch-02-create-controller.md)
